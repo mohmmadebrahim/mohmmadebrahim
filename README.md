@@ -1,22 +1,22 @@
-# Mohammad Ebrahim Ghobadi  
+# 👤 Mohammad Ebrahim Ghobadi  
 
-**Back-End and Front-End Programmer**  
-
----  
-
-## Contact Information  
-
-- **Email:** [M.e.ghobadi.76@gmail.com](mailto:M.e.ghobadi.76@gmail.com)  
-- **Phone:** +98 911 788 5378, +98 937 144 0488  
-- **LinkedIn:** [linkedin.com/in/mohammad-ebrahim-ghobadi-6ab991185](https://linkedin.com/in/mohammad-ebrahim-ghobadi-6ab991185)  
-- **Telegram:** [t.me/MEGHobadi](https://t.me/MEGHobadi) or ID: @meghobadi  
-- **Birthday:** November 15, 1997  
-- **Birthplace:** Amol, Mazandaran, Iran  
-- **Location:** Isfahan, Iran  
+**💻 Back-End and Front-End Programmer**  
 
 ---  
 
-## Technical Skills  
+## 📞 Contact Information  
+
+- **✉️ Email:** [M.e.ghobadi.76@gmail.com](mailto:M.e.ghobadi.76@gmail.com)  
+- **📱 Phone:** +98 911 788 5378, +98 937 144 0488  
+- **🔗 LinkedIn:** [linkedin.com/in/mohammad-ebrahim-ghobadi-6ab991185](https://linkedin.com/in/mohammad-ebrahim-ghobadi-6ab991185)  
+- **📲 Telegram:** [t.me/MEGHobadi](https://t.me/MEGHobadi) or ID: @meghobadi  
+- **🎂 Birthday:** November 15, 1997  
+- **🌍 Birthplace:** Amol, Mazandaran, Iran  
+- **📍 Location:** Isfahan, Iran  
+
+---  
+
+## 🛠️ Technical Skills  
 
 ### Front-End Development  
 - **Frameworks:** React.js, Next.js, Angular.js, Micro-Frontends with NX  
@@ -39,7 +39,7 @@
 
 ---  
 
-## Work Experience  
+## 💼 Work Experience  
 
 **Web Front-End Developer**  
 DANA Company (Dadepardazan Andishe Novin Anahita)  
@@ -66,7 +66,7 @@ Demis Company
 
 ---  
 
-## English Proficiency  
+## 📚 English Proficiency  
 
 - **Reading:** Good  
 - **Listening:** Average  
@@ -75,7 +75,7 @@ Demis Company
 
 ---  
 
-## Portfolio  
+## 🌐 Portfolio  
 
 ### Insured Web Application Workspace  
 - **Web Applications:**  
@@ -85,11 +85,11 @@ Demis Company
   - [Mellatyar](https://hs.mellatyar.app/)  
   - [Darman Mobile](https://darmanmobile.iraninsurance.ir/)  
   
-- **Native App for the Project:**  
+- **📱 Native App for the Project:**  
   [Download](https://dl.demisco.com/apps/rasa/rasa-swvv2.9.4.apk)  
   **Key Features:** Built with Nx workspaces and Angular 18, customizable for various insurers, includes a native application developed with Ionic and Capacitor.  
 
-### Additional Projects  
+### 🔍 Additional Projects  
 - **Rasa Salamat Application** (Officially Published)  
 - **Atiyeh Sales System:** [Link](https://atiyeh.easymed.ir/)  
 - **Day Insurance System:** [Link](https://day.easymed.ir/)  
@@ -104,10 +104,10 @@ Demis Company
 - **Farid Bahrami Barber Shop:** [Link](https://faridbahrami.ir/)  
 - **Aramic Med Tour** (Not Officially Published): [Link](https://aramicmedtour.com/)  
 
-### Other Projects  
+### 📁 Other Projects  
 - 9 Additional Websites (Not published, screenshots available upon request)  
 
 ---  
 
-## Personal Website  
+## 🌍 Personal Website  
 - [ghobadi.id.ir](http://ghobadi.id.ir/)  
