@@ -24,17 +24,15 @@
 
 ### Back-End Development  
 - **Frameworks:** Node.js, Express.js, Nest.js  
-- **Databases:** MySQL, MongoDB, and others depending on project needs  
-
-### Languages and Libraries  
-- **JavaScript, CSS, Sass, Tailwind, HTML**  
-- **TypeScript**  
-- **RxJS**  
+- **Databases:** MySQL, MongoDB, and others depending on project needs    
 
 ### Additional Skills  
+- **TypeScript**  
 - Familiarity with Leaflet, Firebase, Three.js, Google 3D Viewer  
 - **Version Control:** Git (GitHub and GitLab)  
 - **Project Management:** Azure, Jira, Trello, Slack  
+- **RxJS**
+- Tailwind
 - Service Workers for update management  
 
 ---  
