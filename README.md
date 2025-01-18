@@ -46,7 +46,7 @@ I'm a passionate Full-Stack Developer from **Isfahan, Iran**, with expertise in 
 A customizable platform for insurers built with **Angular 18** and **Nx Workspaces**.  
 
 ### **Rasa Salamat Application**  
-[![Download APK](https://img.shields.io/badge/Download_APK-FF0000?style=for-the-badge)](https://dl.demisco.com/apps/rasa/rasa-swvv2.9.4.apk)  
+[![Download APK](https://img.shields.io/badge/Download_APK-FF0000?style=for-the-badge)](https://dl.demisco.com/apps/rasa/rasa-swvv2.10.2.apk)  
 A native app for managing medical services, developed with **Ionic** and **Capacitor**.  
 
 ### **Shyn Gallery Store**  
@@ -85,7 +85,7 @@ A **Next.js 12** e-commerce platform for optical products.
 [![Darman Mobile](https://img.shields.io/badge/Darman_Mobile-008000?style=for-the-badge)](https://darmanmobile.iraninsurance.ir/)  
 
 #### **📱 Native App for the Project**  
-[![Download APK](https://img.shields.io/badge/Download_APK-FF0000?style=for-the-badge)](https://dl.demisco.com/apps/rasa/rasa-swvv2.9.4.apk)  
+[![Download APK](https://img.shields.io/badge/Download_APK-FF0000?style=for-the-badge)](https://dl.demisco.com/apps/rasa/rasa-swvv2.10.2.apk)  
 **Key Features:**  
 - Built with **Nx Workspaces** and **Angular 18**.  
 - Customizable for various insurers.  
