@@ -75,123 +75,66 @@ A **Next.js 12** e-commerce platform for optical products.
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
 </p>
 
+## 🌐 **Portfolio**  
 
+### **Insured Web Application Workspace**  
+[![Rasatpa](https://img.shields.io/badge/Rasatpa-008000?style=for-the-badge)](https://app.rasatpa.ir)  
+[![Atiyeh Sazan](https://img.shields.io/badge/Atiyeh_Sazan-008000?style=for-the-badge)](https://app.atiyehsazan.ir/)  
+[![Youz24](https://img.shields.io/badge/Youz24-008000?style=for-the-badge)](http://youz24.ir/)  
+[![Mellatyar](https://img.shields.io/badge/Mellatyar-008000?style=for-the-badge)](https://hs.mellatyar.app/)  
+[![Darman Mobile](https://img.shields.io/badge/Darman_Mobile-008000?style=for-the-badge)](https://darmanmobile.iraninsurance.ir/)  
 
+#### **📱 Native App for the Project**  
+[![Download APK](https://img.shields.io/badge/Download_APK-FF0000?style=for-the-badge)](https://dl.demisco.com/apps/rasa/rasa-swvv2.9.4.apk)  
+**Key Features:**  
+- Built with **Nx Workspaces** and **Angular 18**.  
+- Customizable for various insurers.  
+- Includes a native application developed with **Ionic** and **Capacitor**.  
 
+---
 
-------------------------------------------------------------------
-------------------------------------------------------------------
-------------------------------------------------------------------
-------------------------------------------------------------------
+### **🔍 Additional Projects**  
 
-# 👤 Mohammad Ebrahim Ghobadi  
+#### **Rasa Salamat Application** (Officially Published)  
+[![Rasa Salamat](https://img.shields.io/badge/Rasa_Salamat-008000?style=for-the-badge)](https://dl.demisco.com/apps/rasa/rasa-swvv2.9.4.apk)  
 
-**💻 Back-End and Front-End Programmer**  
+#### **Atiyeh Sales System**  
+[![Atiyeh Sales](https://img.shields.io/badge/Atiyeh_Sales-008000?style=for-the-badge)](https://atiyeh.easymed.ir/)  
 
----  
+#### **Day Insurance System**  
+[![Day Insurance](https://img.shields.io/badge/Day_Insurance-008000?style=for-the-badge)](https://day.easymed.ir/)  
 
-## 📞 Contact Information  
+#### **Shyn Gallery Store**  
+[![Shyn Gallery](https://img.shields.io/badge/Shyn_Gallery-008000?style=for-the-badge)](https://shyngallery.com/)  
 
-- **✉️ Email:** [M.e.ghobadi.76@gmail.com](mailto:M.e.ghobadi.76@gmail.com)  
-- **📱 Phone:** +98 911 788 5378, +98 937 144 0488  
-- **🔗 LinkedIn:** [linkedin.com/in/mohammad-ebrahim-ghobadi-6ab991185](https://linkedin.com/in/mohammad-ebrahim-ghobadi-6ab991185)  
-- **📲 Telegram:** [t.me/MEGHobadi](https://t.me/MEGHobadi) or ID: @meghobadi  
-- **🎂 Birthday:** November 15, 1997  
-- **🌍 Birthplace:** Amol, Mazandaran, Iran  
-- **📍 Location:** Isfahan, Iran  
+#### **Folio App** (Not Officially Published)  
+[![Folio App](https://img.shields.io/badge/Folio_App-008000?style=for-the-badge)]()  
 
----  
+#### **Metavers Project**  
+[![Metavers](https://img.shields.io/badge/Metavers-008000?style=for-the-badge)](https://metavers.ae/)  
 
-## 🛠️ Technical Skills  
+#### **Optics4Less**  
+[![Optics4Less](https://img.shields.io/badge/Optics4Less-008000?style=for-the-badge)](https://optics4less.com/)  
 
-### Front-End Development  
-- **Frameworks:** React.js, Next.js, Angular.js, Micro-Frontends with NX  
-- **Mobile Development:** Native Apps, React Native, Ionic, Capacitor  
+#### **Almubdieuntech Company Website**  
+[![Almubdieuntech](https://img.shields.io/badge/Almubdieuntech-008000?style=for-the-badge)](https://almubdieuntech.com/)  
 
-### Back-End Development  
-- **Frameworks:** Node.js, Express.js, Nest.js  
-- **Databases:** MySQL, MongoDB, and others depending on project needs    
+#### **Barbers Site** (Not Officially Published)  
+[![Barbers Site](https://img.shields.io/badge/Barbers_Site-008000?style=for-the-badge)](https://barberssite.com/)  
 
-### Additional Skills  
-- **TypeScript**  
-- Familiarity with Leaflet, Firebase, Three.js, Google 3D Viewer  
-- **Version Control:** Git (GitHub and GitLab)  
-- **Project Management:** Azure, Jira, Trello, Slack  
-- **RxJS**
-- Tailwind
-- Service Workers for update management  
+#### **Cyber Campster** (Not Officially Published)  
+[![Cyber Campster](https://img.shields.io/badge/Cyber_Campster-008000?style=for-the-badge)](https://cybercampster.com/)  
 
----  
+#### **Diagnosis Key**  
+[![Diagnosis Key](https://img.shields.io/badge/Diagnosis_Key-008000?style=for-the-badge)](https://diagnosiskey.com/)  
 
-## 💼 Work Experience  
+#### **Farid Bahrami Barber Shop**  
+[![Farid Bahrami](https://img.shields.io/badge/Farid_Bahrami-008000?style=for-the-badge)](https://faridbahrami.ir/)  
 
-**Web Front-End Developer**  
-DANA Company (Dadepardazan Andishe Novin Anahita)  
-*April 2021 - April 2022*  
-- Worked as a full-time and part-time front-end developer.  
+#### **Aramic Med Tour** (Not Officially Published)  
+[![Aramic Med Tour](https://img.shields.io/badge/Aramic_Med_Tour-008000?style=for-the-badge)](https://aramicmedtour.com/)  
 
-**Web Front-End Developer**  
-Almubdieuntech Company, UAE  
-*2019 - Winter 2022*  
-- Developed front-end solutions for the company's representative office in Isfahan.  
+---
 
-**Web Front-End Developer**  
-Rayan Companies (Dadepardazan Rastin Robin)  
-*Remote, Part-time*  
-- Collaborated for one year on various front-end projects.  
-
-**Startup Team Collaboration**  
-- Gained experience with Microsoft Azure DevOps during a short-term collaboration with a startup team.  
-
-**Webmaster Front-End Developer**  
-Demis Company  
-*January 2023 - Present*  
-- Engaged in a two-year official contract focused on web development projects.  
-
----  
-
-## 📚 English Proficiency  
-
-- **Reading:** Good  
-- **Listening:** Average  
-- **Writing:** Very Good  
-- **Speaking:** Average  
-
----  
-
-## 🌐 Portfolio  
-
-### Insured Web Application Workspace  
-- **Web Applications:**  
-  - [Rasatpa](https://app.rasatpa.ir)  
-  - [Atiyeh Sazan](https://app.atiyehsazan.ir/)  
-  - [Youz24](http://youz24.ir/)  
-  - [Mellatyar](https://hs.mellatyar.app/)  
-  - [Darman Mobile](https://darmanmobile.iraninsurance.ir/)  
-  
-- **📱 Native App for the Project:**  
-  [Download](https://dl.demisco.com/apps/rasa/rasa-swvv2.9.4.apk)  
-  **Key Features:** Built with Nx workspaces and Angular 18, customizable for various insurers, includes a native application developed with Ionic and Capacitor.  
-
-### 🔍 Additional Projects  
-- **Rasa Salamat Application** (Officially Published)  
-- **Atiyeh Sales System:** [Link](https://atiyeh.easymed.ir/)  
-- **Day Insurance System:** [Link](https://day.easymed.ir/)  
-- **Shyn Gallery Store:** [Link](https://shyngallery.com/)  
-- **Folio App** (Not Officially Published)  
-- **Metavers Project:** [Link](https://metavers.ae/)  
-- **Optics4Less:** [Link](https://optics4less.com/)  
-- **Almubdieuntech Company Website:** [Link](https://almubdieuntech.com/)  
-- **Barbers Site** (Not Officially Published): [Link](https://barberssite.com/)  
-- **Cyber Campster** (Not Officially Published): [Link](https://cybercampster.com/)  
-- **Diagnosis Key:** [Link](https://diagnosiskey.com/)  
-- **Farid Bahrami Barber Shop:** [Link](https://faridbahrami.ir/)  
-- **Aramic Med Tour** (Not Officially Published): [Link](https://aramicmedtour.com/)  
-
-### 📁 Other Projects  
-- 9 Additional Websites (Not published, screenshots available upon request)  
-
----  
-
-## 🌍 Personal Website  
-- [ghobadi.id.ir](http://ghobadi.id.ir/)  
+## 🌍 **Personal Website**  
+[![Personal Website](https://img.shields.io/badge/Personal_Website-0000FF?style=for-the-badge)](http://ghobadi.id.ir/)  
