@@ -96,7 +96,7 @@ A **Next.js 12** e-commerce platform for optical products.
 ### **🔍 Additional Projects**  
 
 #### **Rasa Salamat Application** (Officially Published)  
-[![Rasa Salamat](https://img.shields.io/badge/Rasa_Salamat-008000?style=for-the-badge)](https://dl.demisco.com/apps/rasa/rasa-swvv2.9.4.apk)  
+[![Rasa Salamat](https://img.shields.io/badge/Rasa_Salamat-008000?style=for-the-badge)](https://dl.demisco.com/apps/rasa/rasa-swvv2.10.2.apk)  
 
 #### **Atiyeh Sales System**  
 [![Atiyeh Sales](https://img.shields.io/badge/Atiyeh_Sales-008000?style=for-the-badge)](https://atiyeh.easymed.ir/)  
